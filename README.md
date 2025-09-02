@@ -1,4 +1,13 @@
-# PROYECTOS DE ANÁLISIS DE DATOS
+# <PROYECTOS DE ANÁLISIS DE DATOS>
+
+Este repositorio de proyectos reune cuatro ejercicios de análisis de datos realizados en el proceso de aprendizaje del Bootcamp de Fundamentos de análisis de datos.
+
+Los proyectos que conforman este repositorio están orientados a la práctica de python para la analítica de datos. Por lo tanto, el objetivo de los proyectos es explorar distintas herramientas de Python como la para manipulación de datos, análisis inicial y exploratorio y visualización a través de gráficos.
+
+
+El primer proyecto consiste en preparación y limpieza de datos, mientras que los otros tres proyectos son análisis exploratorios de datos (EDA) en torno a bases de datos de distintas temáticas.
+
+
 • Recursos y ejercicios de Python y análisis de datos. • Apuntes y prácticas de fundamentos y análisis de datos. • Repositorio de aprendizaje: programación, análisis de datos y estadística.
 
 1.
