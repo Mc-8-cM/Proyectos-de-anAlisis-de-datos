@@ -1,7 +1,6 @@
-# 🚗 Análisis de Ventas BMW (2010 - 2024)
+# Detección y tratamiento de datos faltantes
 
-Este proyecto presenta un análisis exploratorio y visual de un dataset ficticio de ventas históricas de BMW, abarcando el periodo 2010–2024. El objetivo es identificar patrones de comportamiento, tendencias de mercado y oportunidades estratégicas a partir de datos estructurados.
-
+A partir de un conjunto de datos simulado, el objetivo de este proyecto consiste en realizar detección y tratamiento de valores faltantes, pasos fundamentales en el proceso de análisis de datos.
 ---
 
 ## 📌 Objetivo
