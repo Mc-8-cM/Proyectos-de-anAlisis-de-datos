@@ -19,11 +19,13 @@ Acá encontrarás mi portafolio de proyectos de análisis de datos con Python
 
 
 * Objetivo 🎯
+  
   En este portafolio me propongo practicar el análisis de datos a través de Python.
   Y, juntoa a ello, compartir aquellos aprendizajes con otras personas que, como yo, están aprendiendo sobre la aplicación de este lenguaje a la   analítica de los datos.
 
 
 * Datos 📉
+
   Tengo experiencia investigando en distintos campos, como estudios urbanos, estudios culturales y salud mental. Es por eso que, en este portafolio, abordo bases de datos que me permiten explorar estos temas.
   Las bases de datos fueron extraídas de Kaggle y tratan los siguientes tópicos:
 
