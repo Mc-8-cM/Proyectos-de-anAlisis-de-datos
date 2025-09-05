@@ -16,11 +16,11 @@ Datos utilizados 📊
 
 En este repositorio, he utilizado bases de datos que me permiten explorar temas de interés personal, especialmente la salud mental y el bienestar. Los proyectos se basan en datos sobre:
 
-    Rutinas matutinas: para analizar la relación entre los hábitos diarios y el bienestar personal.
+  * Rutinas matutinas: para analizar la relación entre los hábitos diarios y el bienestar personal.
 
-    Índice Mundial de la Felicidad: para entender los factores que contribuyen a la percepción de felicidad a nivel global.
+  * Índice Mundial de la Felicidad: para entender los factores que contribuyen a la percepción de felicidad a nivel global.
 
-    Población mundial: para proporcionar un contexto demográfico a los análisis.
+  * Población mundial: para proporcionar un contexto demográfico a los análisis.
 
 Enfoque metodológico 🔬
 
@@ -36,6 +36,6 @@ Herramientas aplicadas 🛠️
 
 Para llevar a cabo estos proyectos, he utilizado las siguientes herramientas:
 
-    Microsoft Excel: Para la manipulación inicial y la organización de los datos.
+  * Microsoft Excel: Para la manipulación inicial y la organización de los datos.
 
-    Python: El lenguaje principal utilizado para todo el proceso de análisis, aprovechando bibliotecas como Pandas, NumPy, Matplotlib y Seaborn.
+  * Python: El lenguaje principal utilizado para todo el proceso de análisis, aprovechando bibliotecas como Pandas, NumPy, Matplotlib y Seaborn.
