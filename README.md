@@ -17,10 +17,10 @@ Hablo cuatro idiomas en nivel avanzado y he estudiado muchos más!
 
 Mi formación y mi experiencia profesional me trajeron al mundo del análisis de datos y mi gusto por los lenguajes a querer aprender lenguajes de programación y aplicarlos al análisis de datos. 
 
-Objetivo 🎯
+* Objetivo 🎯
 En este portafolio me propongo practicar el análisis de datos a través de Python y compartir aquellos aprendizajes con otras personas que, como yo, están aprendiendo sobre la aplicación de este lenguaje a la analítica de los datos.
 
-Datos 📉
+* Datos 📉
 Tengo experiencia investigando en distintos campos, como estudios urbanos, estudios culturales y salud mental. Es por eso que, en este portafolio, abordo bases de datos que me permiten explorar estos temas.
 Las bases de datos fueron extraídas de Kaggle y tratan los siguientes tópicos:
 
@@ -30,7 +30,7 @@ Las bases de datos fueron extraídas de Kaggle y tratan los siguientes tópicos:
 
   * Población mundial: para proporcionar un contexto demográfico a los análisis.
 
-Enfoque metodológico 🔬
+* Enfoque metodológico 🔬
 
 Mis proyectos aplican un enfoque de análisis de datos cuantitativo, ejercitando tres instancias distintas del proceso e análisis de datos:
 
@@ -40,7 +40,7 @@ Mis proyectos aplican un enfoque de análisis de datos cuantitativo, ejercitando
 
   *  Estimación y contraste de hipótesis: Evaluación de la relación entre variables y validación de supuestos estadísticos.
 
-Herramientas aplicadas 🛠️
+* Herramientas aplicadas 🛠️
 
 Para llevar a cabo estos proyectos, he utilizado las siguientes herramientas:
 
