@@ -1,58 +1,41 @@
-# <PROYECTOS DE ANÁLISIS DE DATOS>
+<div align="center">
+<br>
+<span style="color: #FF69B4;">&mdash;&mdash;✨&mdash;&mdash;</span>
+<span style="color: #FF0000;">&mdash;&mdash;✨&mdash;&mdash;</span>
+<span style="color: #FF69B4;">&mdash;&mdash;✨&mdash;&mdash;</span>
+<br>
+</div>
+Sobre mí 🙋‍♀️
 
-Este repositorio de proyectos reune cuatro ejercicios de análisis de datos realizados en el proceso de aprendizaje del Bootcamp de Fundamentos de análisis de datos.
+¡Bienvenido(a) a mi portafolio de proyectos de análisis de datos con Python!
 
-Los proyectos que conforman este repositorio están orientados a la práctica de python para la analítica de datos. Por lo tanto, el objetivo de los proyectos es explorar distintas herramientas de Python como la para manipulación de datos, análisis inicial y exploratorio y visualización a través de gráficos.
+Mi formación en Antropología me ha proporcionado una base sólida en metodologías de investigación cualitativas y cuantitativas y en estadística. He utilizado estas habilidades en mi experiencia profesional, investigando en diversos campos como estudios urbanos, estudios culturales y salud mental.
 
+Además, mi interés por los idiomas me ha llevado a dominar cuatro a un nivel avanzado, lo que ha complementado mi gusto por aprender y aplicar lenguajes de programación, como Python, al análisis de datos.
+Datos utilizados 📊
 
-El primer proyecto consiste en preparación y limpieza de datos, mientras que los otros tres proyectos son análisis exploratorios de datos (EDA) en torno a bases de datos de distintas temáticas.
+En este repositorio, he utilizado bases de datos que me permiten explorar temas de interés personal, especialmente la salud mental y el bienestar. Los proyectos se basan en datos sobre:
 
+    Rutinas matutinas: para analizar la relación entre los hábitos diarios y el bienestar personal.
 
-• Recursos y ejercicios de Python y análisis de datos. • Apuntes y prácticas de fundamentos y análisis de datos. • Repositorio de aprendizaje: programación, análisis de datos y estadística.
+    Índice Mundial de la Felicidad: para entender los factores que contribuyen a la percepción de felicidad a nivel global.
 
-1.
-Título del proyecto
-2.
-Descripción breve del propósito y objetivos.
-3.
-Contenido o estructura de carpetas.
-4.
-Instrucciones de uso (por ejemplo, cómo ejecutar código o abrir notebooks).
-5.
-Recursos adicionales (enlaces a documentación, librerías, tutoriales).
-6.
-Créditos o autoría (opcional).
+    Población mundial: para proporcionar un contexto demográfico a los análisis.
 
+Enfoque metodológico 🔬
 
-<!-- RAINBOW LINE TOP -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+Mis proyectos aplican un enfoque de análisis de datos cuantitativo. El proceso se estructura en tres etapas clave para un análisis riguroso:
 
-<!-- GIF HEADER -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
+  * Detección y tratamiento de valores faltantes: Preparación y limpieza de los datos para asegurar la fiabilidad de los resultados.
 
-# 📘 Portafolio de Aprendizaje | Curso de Fundamentos de Análisis de Datos
+  *  Análisis exploratorio de datos (EDA): Descubrimiento de patrones y tendencias mediante visualizaciones y estadísticas descriptivas.
 
-Este repositorio es una recopilación estructurada de ejercicios, proyectos aplicados y reflexiones desarrolladas durante el curso de Fundamentos de Análisis de Datos. Su propósito es mostrar cómo, a través del uso riguroso y ético de herramientas como **Excel**, **Python**, **SQL** y **Power BI**, se pueden analizar datos de manera efectiva en escenarios reales.
+  *  Estimación y contraste de hipótesis: Evaluación de la relación entre variables y validación de supuestos estadísticos.
 
-## 🧠 Enfoque metodológico
+Herramientas aplicadas 🛠️
 
-El portafolio se organiza en torno a dos pilares clave del análisis cuantitativo:
+Para llevar a cabo estos proyectos, he utilizado las siguientes herramientas:
 
-- **Análisis Exploratorio de Datos (EDA)**  
-  Incluye proyectos prácticos de regresión en los que se identifican relaciones entre variables, se interpretan coeficientes y se evalúan supuestos estadísticos.
+    Microsoft Excel: Para la manipulación inicial y la organización de los datos.
 
-- **Inferencia Estadística**  
-  Se desarrollan ejercicios completos de estimación de parámetros y pruebas de hipótesis, orientados a la toma de decisiones basada en evidencia.
-
-## 💻 Herramientas aplicadas
-
-A lo largo del curso se integran tecnologías fundamentales para el análisis de datos:
-
-- **Excel**: Tablas dinámicas, funciones estadísticas y visualizaciones rápidas.
-- **Python**: Análisis estadístico, manipulación de datos con pandas y creación de gráficos.
-- **SQL**: Diseño e implementación de bases de datos relacionales, consultas simples y multitabla.
-- **Power BI**: Creación de dashboards interactivos y visualización de indicadores clave.
-
-## 🎯 Propósito del portafolio
-
-Más allá de ser un reflejo de mi formación, este espacio está pensado como una guía útil para quienes inician o profundizan en el mundo del análisis de datos. Cada proyecto está documentado paso a paso, con ejemplos claros y soluciones fundamentadas, promoviendo el aprendizaje colaborativo y la aplicación práctica del conocimiento.
+    Python: El lenguaje principal utilizado para todo el proceso de análisis, aprovechando bibliotecas como Pandas, NumPy, Matplotlib y Seaborn.
