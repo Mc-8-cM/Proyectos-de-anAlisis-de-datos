@@ -8,7 +8,7 @@
 
 
 Holaaa, mi nombre es María Consuelo y te doy la bienvenida a mi repositorio :)
-Acá encontrarás mi portafolio de proyectos de análisis de datos con Python
+Acá encontrarás mi portafolio de proyectos de análisis de datos con Python.
 
 * Sobre mí 🌼
 
