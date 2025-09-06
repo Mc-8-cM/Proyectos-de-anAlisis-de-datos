@@ -1,8 +1,6 @@
 <div align="center">
 <br>
-<span style="color: #FF69B4;">&mdash;&mdash;🌸&mdash;&mdash;</span>
 <span style="color: #FF0000;">&mdash;&mdash;🌸&mdash;&mdash;</span>
-<span style="color: #FF69B4;">&mdash;&mdash;🌸&mdash;&mdash;</span>
 <br>
 </div>
 
@@ -66,8 +64,6 @@ El trabajo de este portafolio es parte del Bootcamp de Fundamentos en análisis 
 
 <div align="center">
 <br>
-<span style="color: #FF69B4;">&mdash;&mdash;🌸&mdash;&mdash;</span>
 <span style="color: #FF0000;">&mdash;&mdash;🌸&mdash;&mdash;</span>
-<span style="color: #FF69B4;">&mdash;&mdash;🌸&mdash;&mdash;</span>
 <br>
 </div>
