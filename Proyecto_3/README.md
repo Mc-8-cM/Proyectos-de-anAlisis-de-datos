@@ -8,14 +8,25 @@ Para realizar este proyecto, se utilizó una base de datos en formato .csv y se 
 El desarrollo del proyecto, contempla la explicación paso por paso para realizar:
 
 1) Inferencia estadística
+   
    1.1) Estimación
+   
       1.1.1) Estimación puntual
+   
       1.1.2) Estimación por intervalo
+   
    1.2) Contraste de hipótesis
-3) Descripción de la base de datos
+   
+2) Descripción de la base de datos
+   
    2.1) Glosario del conjunto de datos
-4) Carga del conjunto de datos
-5) Lectura del conjunto de datos
-6) Intervalos de confianza
-7) Pruebas de Hipótesis
-8) Conclusión
+   
+3) Carga del conjunto de datos
+   
+4) Lectura del conjunto de datos
+   
+5) Intervalos de confianza
+   
+6) Pruebas de Hipótesis
+    
+7) Conclusión
