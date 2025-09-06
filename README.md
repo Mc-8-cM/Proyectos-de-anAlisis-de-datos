@@ -6,9 +6,18 @@
 <br>
 </div>
 
-
 Holaaa, mi nombre es María Consuelo y te doy la bienvenida a mi repositorio :)
+
 Acá encontrarás mi portafolio de proyectos de análisis de datos con Python.
+
+El trabajo de este portafolio es parte del Bootcamp de Fundamentos en análisis de datos, conducido por la profesora Lucileima Rosales.
+<div align="center">
+<br>
+<span style="color: #FF69B4;">&mdash;&mdash;🌸&mdash;&mdash;</span>
+<span style="color: #FF0000;">&mdash;&mdash;🌸&mdash;&mdash;</span>
+<span style="color: #FF69B4;">&mdash;&mdash;🌸&mdash;&mdash;</span>
+<br>
+</div>
 
 * Sobre mí 🌼
 
